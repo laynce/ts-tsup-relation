@@ -2,7 +2,7 @@
 
 
 ## faq
-+ [undefind和null类型](./records/undefind%E5%92%8Cnull.md)
++ [undefind和null类型](./records/undefind和null.md)
 + [type与interface的区别](./records/type与interface.md)
 
 
