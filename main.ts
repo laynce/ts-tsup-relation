@@ -11,6 +11,7 @@ import {
 } from './src/baseTypes'
 
 
+const k: number = 20
 console.log(t,
   s,
   m,
@@ -33,5 +34,6 @@ console.log(`%c 知识点: %c
     p,
     q,
     r,
-    tip
+  tip,
+    // k
   }

@@ -5,6 +5,7 @@
 + [undefind和null类型](./records/undefind和null.md)
 + [type与interface的区别](./records/type与interface.md)
 + [全局声明文件](./records/global-type.md)
++ [ts文件引入js文件时书写js的声明文件](./records/ts%E4%B8%ADimport%E7%9A%84js.md)
 
 ## refer
 + [ts官网](https://www.typescriptlang.org)
