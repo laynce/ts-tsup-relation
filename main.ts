@@ -9,6 +9,8 @@ import {
   r,
   tip
 } from './src/baseTypes'
+
+
 console.log(t,
   s,
   m,
@@ -21,3 +23,15 @@ console.log(`%c 知识点: %c
   ${tip}`, 'color: red', 'color:green');
 
 
+
+  export {
+    t,
+    s,
+    m,
+    n,
+    o,
+    p,
+    q,
+    r,
+    tip
+  }

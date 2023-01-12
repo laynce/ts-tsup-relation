@@ -1,7 +1,9 @@
 import type { Options } from "tsup";
 
 export const tsup: Options = {
-  entry: ["main.ts", "src/*.ts"],
+  entry: {
+    'index': 'main.ts'
+  }, //["main.ts"],
   format: ["esm"],
   dts: true, // 生成声明文件
   splitting: true,
