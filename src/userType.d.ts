@@ -25,7 +25,7 @@ declare namespace $ {
 
 interface Cat {
   name: string
-  run(): void
+
 }
 
 
@@ -49,4 +49,17 @@ declare function jQuery(selector: string): any;
 
 declare namespace jQuery {
     function ajax(url: string, settings?: any): void;
+}
+
+
+// 也支持扩展
+declare namespace jQuery {
+  function ajax12(url: string, settings?: any): void;
+}
+
+
+declare enum myEnum1122{
+  green = 0,
+  orange = 1,
+  blue
 }

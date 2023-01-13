@@ -6,7 +6,8 @@
     "module": "ESNext",
     "strict": true,
     // "baseUrl": "./",
-    // "paths": {"js/*": ["types/*"]},
+    // "paths": {
+    //   "*": ["type/*"]},
     // "declaration": true,
     "noEmitOnError": true //报错的时候终止 js 文件的生成
   }

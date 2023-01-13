@@ -1,17 +1,12 @@
-type a = string | void
-
-export {
-  a
-}
+const t4: string | void = '30'
 
 
-type b = {
-  x: number;
-  y: string;
-}
+// type声明类型
 
-const c: b = {
-  x: 1,
-  y: '22'
-}
+type s = 'ssd' | 'd3223' // 限制只能为其中的一种
 
+let g: s = 'ssd' 
+
+type h = number | string
+
+let s1: h = '777'
