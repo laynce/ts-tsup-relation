@@ -16,10 +16,10 @@ $.getAge('12')//
 $.extend.fn({})//
 
 const s: $.Q = {q: '22'}
-const C: Cat = {name: 'ww'}
+// const C: Cat = {name: 'ww'}
 const D: Dog = { name: 'ww', ww() { } }
 
-  D as Cat // C as Dog  // 可以使用类型断言的条件是两个类型之间要存在兼容关系
+//  D as Cat // C as Dog  // 可以使用类型断言的条件是两个类型之间要存在兼容关系
 jQuery('ma')
 jQuery.ajax('reer', 23)
 jQuery.ajax12('reer', 23)

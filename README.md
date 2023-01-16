@@ -13,3 +13,4 @@
 + [tsup 打包参考](https://tsup.egoist.dev/#typescript--javascript)
 + [tsconfig配置参考](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
 + [ts新手入门参考教程](https://ts.xcatliu.com/basics/declaration-files.html)
++ typescript-eslint
