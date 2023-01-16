@@ -4,7 +4,8 @@
   "description": "",
   "main": "",
   "scripts": {
-    "build": "tsup"
+    "build": "tsup",
+    "eslint": "eslint src --ext .ts"
   },
   "keywords": [],
   "author": "",
